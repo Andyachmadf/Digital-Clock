@@ -1,2 +1,2 @@
-# Digital-Clock
-Tugas Sistem Embedded UML (Jam DIgital)
+# JamDigital
+Jam digital dengan dua tombol
